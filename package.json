@@ -1,6 +1,6 @@
 {
 	"name": "@mmstudio/awx000015",
-	"version": "1.0.202004031023",
+	"version": "1.0.202004170923",
 	"description": "开始下拉刷新",
 	"scripts": {
 		"test": "tsc -w",
